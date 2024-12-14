@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lazy-list",
-    "slug": "lazy-list",
+    "name": "template",
+    "slug": "template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
